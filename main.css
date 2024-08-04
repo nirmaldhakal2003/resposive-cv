@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 17%;
+    border: 1px solid red;
+}
+
+aside{
+    width: 22%;
+}
+
+aside img{
+    width: 60%;
+    border-radius: 60%;
+    height: 50%;
+    margin-left: 20%;
+}
+
+aside h1{
+    margin-left: 20%;
+    color: rgb(142, 142, 238);  
+}
+
+aside ul li{
+    list-style: none;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+aside section ul li span{
+    margin-left: 15%;
+}
+
+main{
+    width: 50%;
+}
+
+main section h4{
+  margin-bottom: 0;
+    color: rgb(142, 142, 238);
+}
+
+main section h1{
+    margin-bottom: 0;
+    color: rgb(142, 142, 238);
+}
+
+main section h3{
+    margin-top: 0;
+    color: rgb(142, 142, 238);
+    opacity: 80%;
+}
+
+.Referance{
+text-align: center;
+color: red;
+}
+
+/* left aside editing */
+
+
